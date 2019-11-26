@@ -6,22 +6,33 @@ Answer the following questions. First, without external resources. Challenge you
 1. What is a function? Why would you use one?
 
   Your answer:
+  A function is an object that is responsible to perform a task. 
 
   Researched answer:
+  A function is a set of instructions detailing how to do a task. It is important
+
+
+
+
 
 
 
 2. List 5 examples of JavaScript array methods.
 
   Your answer:
-
+  var cars = ["Honda","Ford","Toyota"]
+  var numbers = [1,2,3,4,5]
+  
   Researched answer:
+  const
 
 
 
 3. Explain the difference between console.log() and return.
 
   Your answer:
+  Console.log() runs and print out the result of the statement made by a function, class, array, variable, etc. 
+  Return is a statement that return the result of a function, class, array, variable, etc. 
 
   Researched answer:
 
@@ -30,6 +41,7 @@ Answer the following questions. First, without external resources. Challenge you
 4. In regards to functions, what is an argument? What is the difference between an argument and a variable?
 
   Your answer:
+  Argument is a object that represents a function to 
 
   Researched answer:
 
@@ -45,9 +57,11 @@ Answer the following questions. First, without external resources. Challenge you
 
 6. Give a brief description of JavaScript as if you were explaining it to someone who doesn't know anything about programming.
 
-  Your answer:
+  Your answer: 
+  Javascript is programming language that helps web developers create a dynamic implmentation using HTML and CSS.
 
 
 7. What is one thing we did in class this week you found helpful?  
 
-  Your answer:
+  Your answer: 
+  
